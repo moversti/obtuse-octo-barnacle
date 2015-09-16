@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/Main.java">
+<error line="9" column="5" severity="error" message="Metodin pituus on 19 riviÃ¤ (suurin sallittu on 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/VarastoImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Varasto.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kauppa.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Tuote.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/KirjanpitoImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kirjanpito.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Pankki.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Ostoskori.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/ViitegeneraattoriImpl.java">
+<error line="13" column="13" severity="error" message="Nested for depth is 1 (max allowed is 0)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck"/>
+<error line="23" column="5" severity="error" message="Metodin pituus on 16 riviÃ¤ (suurin sallittu on 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="27" severity="error" message="method def child at indentation level 0 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" severity="error" message="method def child at indentation level 0 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" severity="error" message="method def child at indentation level 4 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" severity="error" message="method def child at indentation level 4 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="error" message="method def child at indentation level 0 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" severity="error" message="method def child at indentation level 0 not at correct indentation, 8" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/PankkiImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/Main.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/VarastoImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Varasto.java">
+<error line="1" severity="error" message="Found duplicate of 10 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kauppa.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Tuote.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/KirjanpitoImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kirjanpito.java">
+<error line="1" severity="error" message="Found duplicate of 6 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Varasto.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="1" severity="error" message="Found duplicate of 6 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="8" severity="error" message="Found duplicate of 5 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Varasto.java, starting from line 6" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="8" severity="error" message="Found duplicate of 5 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java, starting from line 6" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Pankki.java">
+<error line="1" severity="error" message="Found duplicate of 10 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Varasto.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="1" severity="error" message="Found duplicate of 10 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="1" severity="error" message="Found duplicate of 6 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kirjanpito.java, starting from line 1" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+<error line="6" severity="error" message="Found duplicate of 5 lines in /home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Kirjanpito.java, starting from line 8" source="com.puppycrawl.tools.checkstyle.checks.duplicates.StrictDuplicateCodeCheck"/>
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/Ostoskori.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/ViitegeneraattoriImpl.java">
+</file>
+<file name="/home/arvy/obtuse-octo-barnacle/Teht1/Verkkokauppa4/src/main/java/ohtu/verkkokauppa/PankkiImpl.java">
+</file>
+</checkstyle>
